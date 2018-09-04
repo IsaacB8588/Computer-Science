@@ -1,11 +1,11 @@
 
 /**
- * Write a description of class LargeName here.
+ * Prints my name in large text 
  * 
- * @author (your name) 
+ * @author Isaac
  * @version (a version number or a date)
  */
-public class LargeName
+public class P6
 {
     public static void main(){
         System.out.println("***** *****  ***   ***  *****");

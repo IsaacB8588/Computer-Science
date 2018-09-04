@@ -1,13 +1,13 @@
 
 /**
- * Write a description of class DialogViewer here.
+ * Uses DialogViewer
  * 
- * @author (your name) 
+ * @author Isaac 
  * @version (a version number or a date)
  */
 import javax.swing.JOptionPane;
 
-public class DialogViewer
+public class P15_P16
 {
    public static void main(){
        String name = JOptionPane.showInputDialog("What is your name?");

@@ -1,11 +1,11 @@
 
 /**
- * Write a description of class Face here.
+ * Prints a face
  * 
- * @author (your name) 
+ * @author Isaac
  * @version (a version number or a date)
  */
-public class Face
+public class P7
 {
   public static void main(){
       System.out.println("|||||||");

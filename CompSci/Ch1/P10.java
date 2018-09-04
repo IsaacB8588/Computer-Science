@@ -1,11 +1,11 @@
 
 /**
- * Write a description of class SpeakingAnimal here.
+ * Prints Animal Speaking
  * 
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class SpeakingAnimal
+public class P10
 {
    public static void main(){
        System.out.println("         ^___^         ______");
