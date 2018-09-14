@@ -5,7 +5,7 @@
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class Math
+public class TestMath
 {
    public static void main(){
     double x = 2.5;
