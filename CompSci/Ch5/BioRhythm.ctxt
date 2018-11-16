@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=day\ month\ year
+comment1.target=int\ calcDays(int,\ int,\ int)
+comment2.params=day\ month\ year\ birthDay\ birthMonth\ birthYear
+comment2.target=void\ BioRhythmData(int,\ int,\ int,\ int,\ int,\ int)
+comment3.params=days
+comment3.target=int\ getPhysical(int)
+comment4.params=days
+comment4.target=int\ getEmotional(int)
+comment5.params=days
+comment5.target=int\ getIntellectual(int)
+numComments=6
