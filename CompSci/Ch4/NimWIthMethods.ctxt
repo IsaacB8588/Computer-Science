@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=
+comment1.target=int\ setPennies()
+comment2.params=
+comment2.target=boolean\ setSmart()
+comment3.params=
+comment3.target=boolean\ setTurn()
+comment4.params=pennies\ userTurn
+comment4.target=void\ gameIntro(int,\ boolean)
+comment5.params=pennies
+comment5.target=int\ userPlay(int)
+comment6.params=pennies
+comment6.target=int\ CpuSmartPlay(int)
+comment7.params=pennies
+comment7.target=int\ randomChoice(int)
+comment8.params=pennies
+comment8.target=void\ currentPennies(int)
+comment9.params=userTurn
+comment9.target=void\ declareWinner(boolean)
+numComments=10
