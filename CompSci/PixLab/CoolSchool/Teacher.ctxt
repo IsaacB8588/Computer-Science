@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Teacher()
+comment0.text=\n\ constructs\ a\ teacher\ object\ that\ is\ an\ employee\ with\n\ an\ ID\ number\n
+comment1.params=firstName\ lastName\ roomNumber\ subject
+comment1.target=Teacher(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment1.text=\n\ constructs\ a\ teacher\ object\ that\ is\ an\ employee\ with\n\ a\ first\ name,\ last\ name,\ id\ number,\ room\ number,\ and\ subject\n\ \n\ @param\ firstName\ first\ name\ of\ the\ teacher\n\ @param\ lastName\ last\ name\ of\ the\ teacher\n\ @param\ roomNumber\ room\ number\ of\ the\ teacher's\ class\ room\n\ @param\ subject\ subject\ taught\ by\ the\ teacher\n
+comment2.params=
+comment2.target=int\ getRoomNumber()
+comment2.text=\n\ gets\ the\ room\ number\ of\ the\ teacher\n\ \n\ @return\ int\ room\ number\ of\ the\ teacher\n
+comment3.params=
+comment3.target=java.lang.String\ getSubject()
+comment3.text=\n\ gets\ the\ subject\ taught\ by\ the\ teacher\n\ \n\ @return\ String\ subject\ taught\ by\ the\ teacher\n
+comment4.params=roomNumber
+comment4.target=void\ setRoomNumber(int)
+comment4.text=\n\ sets\ the\ room\ number\ of\ the\ teacher\n\ \n\ @param\ roomNumber\ room\ number\ of\ the\ teacher\n
+comment5.params=subject
+comment5.target=void\ setSubject(java.lang.String)
+comment5.text=\n\ sets\ the\ subject\ taught\ by\ the\ teacher\n\ \n\ @param\ subject\ subject\ taught\ by\ the\ teacher\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ returns\ a\ String\ description\ of\ the\ teacher\n\ \n\ @return\ String\ description\ of\ the\ teacher\n
+numComments=7

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=first\ second\ third
+comment0.target=PadLock(int,\ int,\ int)
+comment0.text=\n\ Constructs\ a\ padlock\n\ \n\ @param\ first\ first\ digit\n\ @param\ second\ second\ digit\n\ @param\ third\ third\ digit\n
+comment1.params=
+comment1.target=void\ reset()
+comment1.text=\n\ resets\ the\ locks\ values\n
+comment2.params=
+comment2.target=boolean\ open()
+comment2.text=\n\ checks\ if\ the\ lock\ will\ open\n
+comment3.params=ticks
+comment3.target=void\ turnRight(int)
+comment3.text=\n\ turns\ the\ spinner\ to\ the\ right\n\ \n\ @param\ ticks\ number\ of\ the\ notches\ it\ turns\n
+comment4.params=ticks
+comment4.target=void\ turnLeft(int)
+comment4.text=\n\ turns\ the\ lock\ to\ the\ left\n\ \n\ @param\ ticks\ number\ of\ notches\ to\ turn\n
+comment5.params=
+comment5.target=int\ position()
+comment5.text=\n\ gets\ the\ position\ of\ the\ spinner\ for\ testing\n\ \n\ @return\ int\ -\ position\ of\ the\ spinner\n
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=d
+comment1.target=void\ printDigit(int)
+comment2.params=zipCode
+comment2.target=void\ printBarCode(int)
+comment3.params=num\ reduction
+comment3.target=int\ reducer(int,\ int)
+numComments=4

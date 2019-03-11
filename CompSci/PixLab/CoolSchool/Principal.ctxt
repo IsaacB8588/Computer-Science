@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Principal()
+comment0.text=\n\ constructs\ a\ principal\ with\ an\ id\ number\n
+comment1.params=firstName\ lastName\ title\ building
+comment1.target=Principal(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ constructs\ a\ principal\ with\ a\ first\ name,\ last\ name,\ id\ number,\ \n\ title,\ and\ building\n\ \n\ @param\ firstName\ first\ name\ of\ the\ principal\n\ @param\ lastName\ last\ name\ of\ the\ principal\n\ @param\ title\ title\ of\ the\ principal\n\ @param\ building\ building\ the\ principal\ works\ in\n
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment2.text=\n\ gets\ the\ title\ of\ the\ principal\n\ \n\ @return\ String\ title\ of\ the\ principal\n
+comment3.params=
+comment3.target=java.lang.String\ getBuilding()
+comment3.text=\n\ gets\ the\ building\ of\ the\ principal\n\ \n\ @return\ String\ building\ of\ the\ principal\n
+comment4.params=title
+comment4.target=void\ setTitle(java.lang.String)
+comment4.text=\n\ sets\ the\ title\ of\ the\ principal\n\ \n\ @param\ title\ title\ of\ the\ principal\n
+comment5.params=building
+comment5.target=void\ setBuilding(java.lang.String)
+comment5.text=\n\ sets\ the\ building\ of\ the\ principal\n\ \n\ @param\ building\ building\ the\ principal\ works\ in\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ returns\ a\ string\ description\ of\ the\ principal\n\ \n\ @return\ String\ description\ of\ the\ principal\n
+numComments=7

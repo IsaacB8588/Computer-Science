@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=
+comment1.target=void\ testToString()
+comment1.text=\n\ tests\ the\ toString\ method\n
+comment2.params=
+comment2.target=void\ testGetTitle()
+comment2.text=\n\ tests\ the\ getTitle\ method\n
+comment3.params=
+comment3.target=void\ testSetTitle()
+comment3.text=\n\ tests\ the\ setTitle\ method\n
+comment4.params=
+comment4.target=void\ testGetBuilding()
+comment4.text=\n\ tests\ the\ getBuilding\ method\n
+comment5.params=
+comment5.target=void\ testSetBuidling()
+comment5.text=\n\ test\ the\ setBuidling\ method\n
+numComments=6
